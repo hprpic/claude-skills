@@ -1,22 +1,16 @@
 # Claude Code Skills
 
-Custom skills and commands for Claude Code.
+Custom skills for Claude Code — synced from laptop for use on mobile.
 
 ## Skills
 
-### Modern Logo Designer (`/modern-logo`)
-Professional logo design skill that generates 5 SVG concepts evaluated against 15 quality criteria (simplicity, scalability, accessibility, etc.).
-
-Located in `.claude/skills/modern-logo-designer/`
-
-## Commands
-
-### Neuromarketing Copywriter (`/neuromarketing`)
-Writes marketing copy using neuromarketing and behavioral psychology principles, with iterative scoring across 8 neurological dimensions until reaching 95/100.
-
-### Web Color Expert (`/web-color-expert`)
-Analyzes website color palettes and provides improvement suggestions based on color theory, psychology, WCAG accessibility, and conversion optimization.
+- `/agent-browser` — Browser automation via CLI agent
+- `/modern-logo-designer` — Generates 5 SVG logo concepts with quality scoring
+- `/nano-banana` — Image generation via Google Gemini 2.5 Flash
+- `/neuromarketing-copywriting` — Conversion copy using behavioral psychology principles
+- `/pisi-kao-ja-fb` — Writes Facebook posts in Hrvoje Prpić's style
+- `/ux-designer` — UX/UI design reviews and best practices
 
 ## Usage
 
-Clone this repo and open it in Claude Code to access all skills and commands. Or copy the `.claude/` directory contents to your `~/.claude/` for global access.
+Connect this repo as a project in the Claude Code mobile app to access all skills.

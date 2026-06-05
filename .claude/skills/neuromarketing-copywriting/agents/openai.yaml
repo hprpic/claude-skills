@@ -1,0 +1,4 @@
+interface:
+  display_name: "Neuromarketing Copywriting"
+  short_description: "Write conversion copy with neuromarketing rigor"
+  default_prompt: "Use $neuromarketing-copywriting to craft persuasive, ethical copy with rationale, variants, and a clear test plan."
