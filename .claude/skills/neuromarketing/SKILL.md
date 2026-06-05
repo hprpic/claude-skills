@@ -1,5 +1,5 @@
 ---
-name: neuromarketing-copywriting
+name: neuromarketing
 description: Create and optimize conversion-focused copy using evidence-based neuromarketing and behavioral psychology principles. Use when writing or rewriting ads, landing pages, emails, sales pages, product pages, scripts, headlines, CTAs, or campaign messaging that must increase attention, trust, and action without manipulative claims. Also use for message strategy, objection handling, A/B variants, and structured copy audits with clear rationale.
 ---
 
